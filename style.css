@@ -76,6 +76,9 @@ img {
 .im {
   border-radius: 80px;
   width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .footr {
   background-color: rgb(138, 90, 106);
